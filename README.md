@@ -1,0 +1,1 @@
+This is the repo for Elements of Microeconomics Fall of 2023. Here you will find copies of the slides for a given week's section along with any other material I might create such as practice problems etc.
